@@ -1,0 +1,5 @@
+console.log(alien)
+// console.log(alien.name)
+// console.log(alien.laptop)
+// console.log(alien.laptop.cpu)
+// console.log(alien.laptop['ram'])
